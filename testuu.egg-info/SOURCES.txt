@@ -1,0 +1,7 @@
+README.md
+setup.py
+testuu.egg-info/PKG-INFO
+testuu.egg-info/SOURCES.txt
+testuu.egg-info/dependency_links.txt
+testuu.egg-info/requires.txt
+testuu.egg-info/top_level.txt
