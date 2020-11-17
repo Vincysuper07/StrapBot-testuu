@@ -155,7 +155,7 @@
             "commands": {
                 "help": {
                     "description": "testù",
-                    "example": "testùs"
+                    "example": "testùs",
                     "embed": {
                         "description": "testù, testù, testù testù! testù testù testù\n\n**{prefix}help** - testù\n**{prefix}config** - testù!",
                         "footer": {
