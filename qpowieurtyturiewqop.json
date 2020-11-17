@@ -6,6 +6,7 @@
             "commands": {
                 "8ball": {
                     "description": "testù",
+                    "examples": ["testù?"],
                     "question": "tùset",
                     "answers": [
                         "testù, testù, testù testù! testù testù testù"
@@ -13,10 +14,12 @@
                 },
                 "choose": {
                     "description": "testù/testà.",
+                    "examples": ["testù, testà, testè, testì, testò"],
                     "nochoose": "tEsTù"
                 },
                 "roll": {
-                    "description": "***t   e   s   t   ù***"
+                    "description": "***t   e   s   t   ù***",
+                    "examples": ["", "25"]
                 },
                 "flip": {
                     "description": "***t   E   s   T   ù***",
@@ -31,10 +34,12 @@
                     "square": "tùset"
                 },
                 "lmgtfy": {
-                    "description": "testù"
+                    "description": "testù",
+                    "examples": ["testù, testù, testù testù!"]
                 },
                 "say": {
-                    "description": "testùùùùùùùùùùùùùùùùùùùù"
+                    "description": "testùùùùùùùùùùùùùùùùùùùù",
+                    "examples": "testù"
                 },
                 "reverse": {
                     "description": "ùtset"
@@ -46,16 +51,19 @@
                 },
                 "roast": {
                     "description": "resta sempre testù",
+                    "examples": ["testù"],
                     "roasts": [
                         "resterai sempre testù testù testù testù testù testù testù testù testù testù testù testù testù testù testà testì testù e Creeper"
                     ],
                     "roastyou": "TESTÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙ"
                 },
                 "smallcaps": {
-                    "description": "ᴛᴇꜱᴛù"
+                    "description": "ᴛᴇꜱᴛù",
+                    "examples": ["testù"]
                 },
                 "cringe": {
-                    "description": "tEsTù"
+                    "description": "tEsTù",
+                    "examples": ["testù"]
                 }
             }
         },
@@ -104,6 +112,7 @@
                 },
                 "remove": {
                     "description": "te-...............",
+                    "examples": ["4"],
                     "error": "tesù"
                 },
                 "loop": {
@@ -121,6 +130,10 @@
             "name": "Config",
             "description": "testù!",
             "commands": {
+                "config": {
+                    "description": "testù!",
+                    "examples": ["server lang ../../testù", "user lang en"]
+                },
                 "config user lang": {
                     "description": "testù->testà.\n**TESTÙ:** testà.",
                     "embed": {
@@ -153,7 +166,11 @@
                             "icon_url": "https://cdn.discordapp.com/avatars/740140581174378527/226deca56aaa9cbe5f27dcbf7dda732d.webp"
                         }
                     }
-                }
+                },
+                "invite": {},
+                "testù": {},
+                "servers": {},
+                "ping": {}
             }
         }
     }
