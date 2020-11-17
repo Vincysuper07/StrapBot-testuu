@@ -137,8 +137,8 @@
                 }
             }
         },
-        "Help": {
-            "name": "Help",
+        "Utilities": {
+            "name": "tùset",
             "commands": {
                 "help": {
                     "description": "testù",
